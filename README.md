@@ -44,7 +44,7 @@ Upon running the notebook, you will see several graphics assisting in your analy
 
 ## Usage
 
-To use the credit risk resampling notebook, open credit_risk_resampling.ipynb in a Jupyter Lab environment (or other IDE with Jupyter notebook extensions):
+To use the credit risk resampling notebook, open credit_risk_resampling.ipynb in a Jupyter Lab environment (or other IDE with Jupyter notebook extensions)
 
 ---
 
